@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite GUI</string>
+    <string name="author">Author</string>
+    <string name="entry">Entry</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="image">Image</string>
+    <string name="author_name">Author name</string>
+    <string name="current_date_time">Current date/time</string>
+    <string name="picture_jpg">picture.jpg</string>
+    <string name="new_journal_entry">New journal entry</string>
+</resources>
